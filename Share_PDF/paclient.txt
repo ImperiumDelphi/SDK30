@@ -1,0 +1,366 @@
+-----------------------------------------------------------------
+12/08/2021 11:08:36
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --Clean=.\Android\Release\SharePDF,D:\Aulas\SDK30\Share_PDF\SharePDF._@emb_.tmp 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Deleting file(s)...
+Total file(s) deleted: 0 file(s)  0 dir(s)
+
+-----------------------------------------------------------------
+12/08/2021 11:08:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\splash_image_def.xml,.\Android\Release\SharePDF\res\drawable\,1,splash_image_def.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  383 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_24x24.png,.\Android\Release\SharePDF\res\drawable-mdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.640 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:37
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\prebuilt\android-arm\gdbserver\gdbserver,.\Android\Release\SharePDF\library\lib\armeabi-v7a\,1,gdbserver 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  596.448 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\libSharePDF.so,.\Android\Release\SharePDF\library\lib\armeabi-v7a\,1,libSharePDF.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  29.223.324 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\styles-v21.xml,.\Android\Release\SharePDF\res\values-v21\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  324 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_72x72.png,.\Android\Release\SharePDF\res\drawable-xxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.019 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_470x320.png,.\Android\Release\SharePDF\res\drawable-normal\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.120 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:38
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_96x96.png,.\Android\Release\SharePDF\res\drawable-xxxhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  3.724 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\mips\libnative-activity.so,.\Android\Release\SharePDF\library\lib\mips\,1,libSharePDF.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  71.860 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_48x48.png,.\Android\Release\SharePDF\res\drawable-xhdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.322 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\classes.dex,.\Android\Release\SharePDF\classes\,1,classes.dex 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.712.116 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_48x48.png,.\Android\Release\SharePDF\res\drawable-mdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.119 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:39
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=provider_paths.xml,.\Android\Release\SharePDF\res\xml\,0,provider_paths.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  209 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\styles.xml,.\Android\Release\SharePDF\res\values\,1,styles.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  301 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_36x36.png,.\Android\Release\SharePDF\res\drawable-ldpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.245 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_426x320.png,.\Android\Release\SharePDF\res\drawable-small\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.900 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_960x720.png,.\Android\Release\SharePDF\res\drawable-xlarge\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  11.262 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:40
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\lib\android\debug\armeabi\libnative-activity.so,.\Android\Release\SharePDF\library\lib\armeabi\,1,libSharePDF.so" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  25.720 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_72x72.png,.\Android\Release\SharePDF\res\drawable-hdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.071 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=AndroidManifest.template.xml,.\Android\Release\SharePDF\assets\internal\,0,AndroidManifest.template.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.916 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_NotificationIcon_36x36.png,.\Android\Release\SharePDF\res\drawable-hdpi\,1,ic_notification.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  1.935 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_144x144.png,.\Android\Release\SharePDF\res\drawable-xxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  4.147 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_96x96.png,.\Android\Release\SharePDF\res\drawable-xhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.416 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:41
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\strings.xml,.\Android\Release\SharePDF\res\values\,1,strings.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  123 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_SplashImage_640x480.png,.\Android\Release\SharePDF\res\drawable-large\,1,splash_image.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  6.809 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\colors.xml,.\Android\Release\SharePDF\res\values\,1,colors.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  183 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=Android\Release\AndroidManifest.xml,.\Android\Release\SharePDF\,1,AndroidManifest.xml 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  2.826 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--put=c:\program files (x86)\embarcadero\studio\21.0\bin\Artwork\Android\FM_LauncherIcon_192x192.png,.\Android\Release\SharePDF\res\drawable-xxxhdpi\,1,ic_launcher.png" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  5.792 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:42
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --put=D:\Aulas\SDK30\Share_PDF\deployedassets.txt,.\Android\Release\SharePDF\assets\deployinfo\,, 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+Copying file(s)...
+Total file(s) copied: 1 file(s)  48 bytes
+
+-----------------------------------------------------------------
+12/08/2021 11:08:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --stripdebug=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe,.\Android\Release\SharePDF\debug\libSharePDF.so,.\Android\Release\SharePDF\library\lib\armeabi-v7a\libSharePDF.so 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+12/08/2021 11:08:43
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --aaptpackage=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\Aapt.exe,.\Android\Release\SharePDF\library,.\Android\Release\SharePDF\classes,.\Android\Release\SharePDF\res,.\Android\Release\SharePDF\assets,.\Android\Release\SharePDF\AndroidManifest.xml,C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\platforms\android-29\android.jar,.\Android\Release\SharePDF\bin\SharePDF-unsigned.apk 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+12/08/2021 11:08:49
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 "--jarsign=C:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-hotspot\bin\JarSigner.exe,.\Android\Release\SharePDF\bin\SharePDF-unsigned.apk,androiddebugkey,C:\Users\Dell\AppData\Roaming\Embarcadero\BDS\21.0\debug.keystore,MD5withRSA,SHA-256,android,android" 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
+-----------------------------------------------------------------
+12/08/2021 11:08:52
+  
+c:\program files (x86)\embarcadero\studio\21.0\bin\paclient_.exe
+-u8 --zipalign=C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidSDK-2525-21.0.40680.4203\build-tools\29.0.3\ZipAlign.exe,.\Android\Release\SharePDF\bin\SharePDF-unsigned.apk,.\Android\Release\SharePDF\bin\SharePDF.apk,4 
+Platform Assistant Client  Version 12.2.10.3
+Copyright (c) 2010-2021 Embarcadero Technologies, Inc.
+
+
